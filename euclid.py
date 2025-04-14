@@ -8,4 +8,4 @@ def euclid(a, b):
         return euclid(b, a % b)
 
 
-print(euclid(30,21))
+print(euclid(30, 21))
